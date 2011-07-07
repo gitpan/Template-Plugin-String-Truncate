@@ -1,6 +1,6 @@
 package Template::Plugin::String::Truncate;
 BEGIN {
-  $Template::Plugin::String::Truncate::VERSION = '0.01';
+  $Template::Plugin::String::Truncate::VERSION = '0.02';
 }
 use strict;
 
@@ -27,7 +27,7 @@ Template::Plugin::String::Truncate - String::Truncate functions for Template Too
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

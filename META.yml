@@ -15,10 +15,8 @@ meta-spec:
   version: 1.4
 name: Template-Plugin-String-Truncate
 requires:
-  JSON::Any: 0
-  JSON::XS: 0
   String::Truncate: 0
   Template::Plugin: 0
 resources:
   repository: https://github.com/gphat/template-plugin-string-truncate
-version: 0.01
+version: 0.02

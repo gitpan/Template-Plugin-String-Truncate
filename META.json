@@ -21,8 +21,6 @@
       },
       "runtime" : {
          "requires" : {
-            "JSON::Any" : 0,
-            "JSON::XS" : 0,
             "String::Truncate" : 0,
             "Template::Plugin" : 0
          }
@@ -41,6 +39,6 @@
          "url" : "https://github.com/gphat/template-plugin-string-truncate"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 

@@ -23,12 +23,10 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'Template::Plugin::String::Truncate',
   'PREREQ_PM' => {
-    'JSON::Any' => '0',
-    'JSON::XS' => '0',
     'String::Truncate' => '0',
     'Template::Plugin' => '0'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }

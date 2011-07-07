@@ -4,7 +4,7 @@ Template::Plugin::String::Truncate - String::Truncate functions for Template Too
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
